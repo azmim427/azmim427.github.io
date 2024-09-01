@@ -1,6 +1,7 @@
 ---
 
 title: "About Mazyar Azmi"
+permalink: /about/
 
 ---
 
