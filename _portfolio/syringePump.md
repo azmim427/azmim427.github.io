@@ -18,3 +18,5 @@ gallery:
 ---
 
 The smallest possible volume to dispense was 0.1 mL, and the pump could use either a 10 mL syringe or a 20 mL syringe.
+
+{% include gallery caption="Photo Gallery" %}
