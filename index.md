@@ -1,26 +1,26 @@
 ---
-title: ""
+title: "Welcome!"
 layout: splash
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/img/Home-Banner-Image.jpeg
+  overlay_image: /assets/img/CustomGrid_2024-Sep-02_07-18-11PM-000_CustomizedView23980668740.png
   actions:
     - label: "My Projects"
       url: "/portfolio/"
-excerpt: "Dr. David Florian is an engineer with a passion for teaching and the open-source community. His area of expertise is 3D printing, with an emphasis on large format pellet extrusion and selective laser sintering."
+excerpt: "Maz is a neuroscience student with a passion for building and tinkering. He is focusing on electrophysiology research in macaques where he has projects in designing and implementing recording interfaces as well as analyzing neural signals in MATLAB. His area of expertise in digital fabrication is CAD and 3D printing of biomedical devices and instruments."
 feature_row:
-  - image_path: assets/img/CNC-Mill-Thumbnail.jpg
+  - image_path: assets/img/
     alt: "CNC Mill"
     title: "Custom CNC Milling Machine"
     excerpt: "Built for fabricating aluminum and steel parts."
-  - image_path: assets/img/Plasma-Cutter-Banner.jpg
+  - image_path: assets/img/
     alt: "placeholder image 2"
-    title: "DIY Plasma Cutter"
-    excerpt: "A hot plasma stream slices through sheet metal."
-  - image_path: assets/img/Zidex-Thumbnail.jpg
-    title: "Bespoke IDEX 3D Printer"
-    excerpt: "Multimaterial printing. "
+    title: "Electrophysiological Recording Implant"
+    excerpt: "Allows for multi-area high density laminar recordings of macaque cortex."
+  - image_path: assets/img/
+    title: "Phone case"
+    excerpt: "TPU iPhone 13 mini case with Magsafe insert."
 ---
 
 {% include feature_row %}
