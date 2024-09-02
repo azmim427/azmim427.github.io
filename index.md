@@ -14,7 +14,7 @@ feature_row:
     alt: "CNC Mill"
     title: "Custom CNC Milling Machine"
     excerpt: "Built for fabricating aluminum and steel parts."
-  - image_path: assets/img/
+  - image_path: assets/img/assets/img/Graymatter_Implant_Assembly_2024-Feb-29_08-50-46PM-000_CustomizedView27712234730_png_alpha.png
     alt: "placeholder image 2"
     title: "Electrophysiological Recording Implant"
     excerpt: "Allows for multi-area high density laminar recordings of macaque cortex."
