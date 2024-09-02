@@ -8,7 +8,7 @@ header:
   actions:
     - label: "My Projects"
       url: "/portfolio/"
-excerpt: "Maz is a neuroscience student with a passion for building and tinkering. He is focusing on electrophysiology research in macaques where he has projects in designing and implementing recording interfaces as well as analyzing neural signals in MATLAB. His area of expertise in digital fabrication is CAD and 3D printing of biomedical devices and instruments."
+excerpt: "Maz is a neuroscience student with a passion for building and tinkering. He is focusing on electrophysiology research in macaques where he has projects in designing and implementing recording interfaces as well as analyzing neural signals in MATLAB. His area of expertise in digital fabrication is CAD and 3D printing of research devices and instruments."
 feature_row:
   - image_path: /assets/img/IMG_9758.jpeg
     alt: "two electrode inserters mounted atop a chamber containing an alignment grid"
