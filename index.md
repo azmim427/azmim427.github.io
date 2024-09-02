@@ -18,10 +18,10 @@ feature_row:
     alt: "six electrode inserters mounted atop three craniotomy chambers on a skull"
     title: "Electrophysiological Recording Implant"
     excerpt: "Allows for multi-area high density laminar recordings of macaque cortex."
-  - image_path: /assets/img/IMG_8416.jpeg
-    alt: "three iterations of phone case with magnetic insert"
-    title: "Phone case"
-    excerpt: "TPU iPhone 13 mini case with Magsafe insert."
+  - image_path: /assets/img/IMG_9664.jpeg
+    alt: "3d printed device holding tissue in chamber"
+    title: "Tissue Mounting Rig"
+    excerpt: "Holds tissue chunk in place while fixative hardens."
 ---
 
 {% include feature_row %}
