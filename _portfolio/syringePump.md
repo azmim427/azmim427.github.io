@@ -72,3 +72,6 @@ gallery:
 3. Press both buttons simultaneously to slowly advance the plunger. 
 4. Use the knob and button on the screen to set syringe size and select operation mode. There are two options for operation mode. If “ml/min” is selected, a flow rate can be specified and the toggle switch can be clicked once to start pumping and again to stop. If “ml” is selected, the amount to pump in ml can be specified and the rotary encoder button can be pressed to start pumping. The pump will stop automatically once the required volume of liquid is pumped. If the limit switch is pressed during operation, the pump will warn the user that they have run out of space. The machine will then proceed to move backward into a safe position and reset itself. There is also a small reset button on the screen that resets the program if the syringe size needs to be changed out.
 5. Switch out the syringe as desired.
+
+## [Arduino Code](/assets/img/syringe_pump_code.ino)
+
