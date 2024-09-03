@@ -17,6 +17,7 @@ gallery:
    
 ---
 ##### Designed by: Mazyar Azmi, Matthew DeLuna, Colton Smith, and Helen Wu
+
 ## Features
 
 * **Capable of a wide range of flow rates from 1-100 mL/min.** Using arduino controlled stepper motor coupled to 8mm lead screw.
@@ -48,6 +49,7 @@ gallery:
 | RGB Common Cathode LED | 1 |
 
 ## 3D printed parts required
+
 | Part Name | Quantity |
 |-----------|----------|
 | Motor Mount| 1 |
@@ -60,9 +62,11 @@ gallery:
 
 
 ## CAD Model
+
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH286ddQT78850c0d8a4870177110b12f323?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 ## Instructions
+
 1. Use the two momentary buttons to move the plunger presser far back enough for the length of the syringe with its plunger extended. Put the back part of the syringe in the slot on the back barrel stabilizer. Adjust the presser with the momentary buttons as needed.
 2. Advance the plunger presser until it makes contact with the syringe using the forwards and backwards buttons.
 3. Press both buttons simultaneously to slowly advance the plunger. 
