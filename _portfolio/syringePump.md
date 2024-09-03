@@ -48,7 +48,7 @@ gallery:
 
 ## 3D printed parts required
 | Part Name | Quantity |
-| --------- | -------- |
+|-----------|----------|
 | Motor Mount| 1 |
 | Back Barrel Stabilizer | 1 |
 | Plunger Presser | 1 |
