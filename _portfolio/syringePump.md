@@ -28,7 +28,7 @@ gallery:
 
 ## Off-the-shelf parts required
 | Part Name | Quantity |
-| --------- | -------- |
+|-----------|----------|
 | 250 mm lead screw with 2 mm pitch and 2 mm lead | 1 |
 | 250 mm lead screw with 2 mm pitch and 8 mm lead | 1 |
 | 1/4" x 8mm Flexible Coupling | 1 |
