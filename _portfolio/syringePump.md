@@ -27,6 +27,7 @@ gallery:
 * **3D printed enclosure.** To protect electronic components from spills.
 
 ## Off-the-shelf parts required
+|-----------|----------|
 | Part Name | Quantity |
 |-----------|----------|
 | 250 mm lead screw with 2 mm pitch and 2 mm lead | 1 |
