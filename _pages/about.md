@@ -8,11 +8,11 @@ Maz is a neuroscience student with a passion for building and tinkering. He is f
 
 ## Education
 
-* Horace Mann High School '22
 * Vanderbilt University '26
   * Neuroscience major
   * Data Science minor
   * Digital Fabrication minor
+* Horace Mann High School '22
  
 ## Work Experience
 
