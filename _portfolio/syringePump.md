@@ -27,6 +27,8 @@ gallery:
 * **Limit switch.** Automatically stops motor when syringe is out of fluid.
 * **3D printed enclosure.** To protect electronic components from spills.
 
+{% include gallery %}
+
 ## Off-the-shelf parts required
 
 | Part Name | Quantity |
