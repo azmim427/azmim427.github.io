@@ -2,8 +2,8 @@
 title: "Multimaterial Pliers"
 excerpt: "Fully 3D printed needlenose pliers."
 header:
-  image: /assets/img/syringe_pump_render.png
-  teaser: /assets/img/syringe_pump_render.png
+  image: /assets/img/pliers_render_2.png
+  teaser: /assets/img/pliers_render_2.png
 gallery:
   - url: /assets/img/syringe_pump_photo.jpg
     image_path: assets/img/syringe_pump_photo.jpg
