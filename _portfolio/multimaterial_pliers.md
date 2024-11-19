@@ -5,18 +5,15 @@ header:
   image: /assets/img/pliers_render_final.png
   teaser: /assets/img/pliers_render_final.png
 gallery:
-  - url: /assets/img/syringe_pump_photo.jpg
-    image_path: assets/img/syringe_pump_photo.jpg
-    alt: "real life assembly of the syringe pump"
-    title: "title"
-  - url: /assets/img/syringe_pump_drawing.png
-    image_path: assets/img/syringe_pump_drawing.png
-    alt: "drawing of the syringe pump body"
-    title: "title"
-  - url: /assets/img/syringe_pump_circuit.jpg
-    image_path: assets/img/syringe_pump_circuit.jpg
-    alt: "diagram of the syringe pump's wiring circuit"
-    title: "title"
+  - url: /assets/img/IMG_0549.jpeg
+    image_path: assets/img/IMG_0549.jpeg
+    alt: "real life 3D printed needlenose pliers"
+  - url: /assets/img/IMG_0558.gif
+    image_path: assets/img/IMG_0558.gif
+    alt: "gif of pliers working"
+  - url: /assets/img/IMG_0566.jpeg
+    image_path: assets/img/IMG_0566.jpeg
+    alt: "iterations of tpu core"
 ---
 ##### Designed by Mazyar Azmi
 
