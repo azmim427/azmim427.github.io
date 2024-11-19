@@ -16,9 +16,9 @@ gallery:
     alt: "diagram of the syringe pump's wiring circuit"
    
 ---
-##### Designed by: Mazyar Azmi, Matthew DeLuna, Colton Smith, and Helen Wu
+##### Designed by Mazyar Azmi
 
-## Features
+## Project description
 
 * **Capable of a wide range of flow rates from 1-100 mL/min.** Using arduino controlled stepper motor coupled to 8mm lead screw.
 * **3 modes of operation to choose from.** Choose between entering your desired flow rate in mL/min, entering your desired volume in mL, or controlling the motor manually using the buttons.
@@ -26,6 +26,8 @@ gallery:
 * **LCD Display.** Informs the user about the device’s current state.
 * **Limit switch.** Automatically stops motor when syringe is out of fluid.
 * **3D printed enclosure.** To protect electronic components from spills.
+
+Blurb about print-in-place models
 
 ## Off-the-shelf parts required
 
