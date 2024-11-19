@@ -4,7 +4,19 @@ excerpt: "Fully 3D printed needlenose pliers."
 header:
   image: /assets/img/pliers_render_final.png
   teaser: /assets/img/pliers_render_final.png
-   
+gallery:
+  - url: /assets/img/syringe_pump_photo.jpg
+    image_path: assets/img/syringe_pump_photo.jpg
+    alt: "real life assembly of the syringe pump"
+    title: "title"
+  - url: /assets/img/syringe_pump_drawing.png
+    image_path: assets/img/syringe_pump_drawing.png
+    alt: "drawing of the syringe pump body"
+    title: "title"
+  - url: /assets/img/syringe_pump_circuit.jpg
+    image_path: assets/img/syringe_pump_circuit.jpg
+    alt: "diagram of the syringe pump's wiring circuit"
+    title: "title"
 ---
 ##### Designed by Mazyar Azmi
 
@@ -19,20 +31,7 @@ header:
 
 Blurb about print-in-place models
 
-
-gallery:
-  - url: /assets/img/syringe_pump_photo.jpg
-    image_path: assets/img/syringe_pump_photo.jpg
-    alt: "real life assembly of the syringe pump"
-    title: "title"
-  - url: /assets/img/syringe_pump_drawing.png
-    image_path: assets/img/syringe_pump_drawing.png
-    alt: "drawing of the syringe pump body"
-    title: "title"
-  - url: /assets/img/syringe_pump_circuit.jpg
-    image_path: assets/img/syringe_pump_circuit.jpg
-    alt: "diagram of the syringe pump's wiring circuit"
-    title: "title"
+{% include gallery %}
 
 ## Off-the-shelf parts required
 
