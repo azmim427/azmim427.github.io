@@ -19,8 +19,8 @@ header:
 
 Blurb about print-in-place models
 
-<figure>
-  gallery:
+
+gallery:
   - url: /assets/img/syringe_pump_photo.jpg
     image_path: assets/img/syringe_pump_photo.jpg
     alt: "real life assembly of the syringe pump"
@@ -33,7 +33,6 @@ Blurb about print-in-place models
     image_path: assets/img/syringe_pump_circuit.jpg
     alt: "diagram of the syringe pump's wiring circuit"
     title: "title"
-</figure>
 
 ## Off-the-shelf parts required
 
