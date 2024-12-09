@@ -1,19 +1,16 @@
 ---
-title: "Multimaterial Pliers"
-excerpt: "Fully 3D printed needlenose pliers."
+title: "Microfluidic Device"
+excerpt: "Pinched flow fractionation microfluidic device."
 header:
-  image: /assets/img/pliers_render_final.png
-  teaser: /assets/img/pliers_render_final.png
+  image: /assets/img/microfluidic_dark.png
+  teaser: /assets/img/microfluidic_dark.png
 gallery:
-  - url: /assets/img/IMG_0549.jpeg
-    image_path: assets/img/IMG_0549.jpeg
-    alt: "real life 3D printed needlenose pliers"
-  - url: /assets/img/IMG_0558.gif
-    image_path: assets/img/IMG_0558.gif
-    alt: "gif of pliers working"
-  - url: /assets/img/IMG_0566.jpeg
-    image_path: assets/img/IMG_0566.jpeg
-    alt: "iterations of tpu core"
+  - url: /assets/img/IMG_0450.jpeg
+    image_path: assets/img/IMG_0450.jpeg
+    alt: "PDMS casted device with glass seal"
+  - url: /assets/img/IMG_0653.jpeg
+    image_path: assets/img/IMG_0653.jpeg
+    alt: "resin printed device mold"
 ---
 ###### Designed by Mazyar Azmi
 
@@ -53,4 +50,3 @@ gallery:
 ## CAD Model
 
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH286ddQT78850c0d8a476b64130524d1416?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
-
