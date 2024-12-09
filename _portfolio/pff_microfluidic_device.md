@@ -2,8 +2,8 @@
 title: "Microfluidic Device"
 excerpt: "Pinched flow fractionation microfluidic device"
 header:
-  image: /assets/img/microfluidic_device_render.png
-  teaser: /assets/img/microfluidic_device_render.png
+  image: /assets/img/microfluidic_dark.png
+  teaser: /assets/img/microfluidic_dark.png
 gallery:
   - url: /assets/img/IMG_0450.jpeg
     image_path: assets/img/IMG_0450.jpeg
