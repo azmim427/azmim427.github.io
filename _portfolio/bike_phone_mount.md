@@ -2,18 +2,18 @@
 title: "Bicycle Phone Mount"
 excerpt: "Bicycle phone mount for iPhone 13 mini."
 header:
-  image: /assets/img/
-  teaser: /assets/img/
+  image: /assets/img/bike_phone_mount_render.png
+  teaser: /assets/img/bike_phone_mount_render.png
 gallery:
+  - url: /assets/img/IMG_0636.jpeg
+    image_path: assets/img/IMG_0636.jpeg
+    alt: "IRL phone mount (portrait)"
   - url: /assets/img/
     image_path: assets/img/
-    alt: ""
-  - url: /assets/img/
-    image_path: assets/img/
-    alt: ""
-  - url: /assets/img/
-    image_path: assets/img/
-    alt: ""
+    alt: "Phone mount with phone attached"
+  - url: /assets/img/IMG_0648.jpeg
+    image_path: assets/img/IMG_0648.jpeg
+    alt: "IRL phone mount (landscape)"
 ---
 ###### Designed by Mazyar Azmi
 
@@ -23,7 +23,7 @@ gallery:
 * Printed out of Nylon 12 powder on Formlabs Fuse
 * Meant for 23-25mm diameter bicycle handlebars
 * Ball joint allows for switching between landscape/portrait orientation
-* **Top-down modeling:**
+* **Top-down modeling:** 
 * **Assembly instructions:**
 * **Design Rationale:**
 * **Material Choice:** Nylon 12 powder printing allows for much more robust and durable parts than traditional FFF printing.
