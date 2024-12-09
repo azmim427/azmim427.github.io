@@ -1,6 +1,6 @@
 ---
 title: "Bicycle Phone Mount"
-excerpt: "Bicycle phone mount for iPhone 13 mini"
+excerpt: "Bicycle phone mount for iPhone 13 mini."
 header:
   image: /assets/img/
   teaser: /assets/img/
