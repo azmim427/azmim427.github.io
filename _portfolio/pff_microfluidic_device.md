@@ -1,6 +1,6 @@
 ---
 title: "Microfluidic Device"
-excerpt: "Pinched flow fractionation microfluidic device"
+excerpt: "Pinched flow fractionation microfluidic device."
 header:
   image: /assets/img/microfluidic_dark.png
   teaser: /assets/img/microfluidic_dark.png
