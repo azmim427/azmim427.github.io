@@ -1,6 +1,6 @@
 ---
 title: "Syringe Pump"
-excerpt: "DIY programmable syringe pump capable of dispensing exact volumes of fluid in 0.1mL increments."
+excerpt: "DIY programmable syringe pump."
 header:
   image: /assets/img/syringe_pump_render.png
   teaser: /assets/img/syringe_pump_render.png
