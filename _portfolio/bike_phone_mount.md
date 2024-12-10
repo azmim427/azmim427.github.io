@@ -8,8 +8,8 @@ gallery:
   - url: /assets/img/IMG_0636.jpeg
     image_path: assets/img/IMG_0636.jpeg
     alt: "IRL phone mount (portrait)"
-  - url: /assets/img/
-    image_path: assets/img/
+  - url: /assets/img/IMG_0937.jpeg
+    image_path: assets/img/IMG_0937.jpeg
     alt: "Phone mount with phone attached"
   - url: /assets/img/IMG_0648.jpeg
     image_path: assets/img/IMG_0648.jpeg
