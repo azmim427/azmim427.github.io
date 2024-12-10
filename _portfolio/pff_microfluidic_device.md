@@ -30,7 +30,7 @@ gallery:
   * Pour PDMS into mold, degas in vacuum, and cure in oven before demolding.
   * Finally, bond PDMS device to glass microscope slide.
 
-{% include video id="Y6jHMoRPzXk" provider="youtube" %}
+
 
 {% include gallery %}
 
