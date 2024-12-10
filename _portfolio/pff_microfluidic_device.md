@@ -30,7 +30,23 @@ gallery:
   * Pour PDMS into mold, degas in vacuum, and cure in oven before demolding.
   * Finally, bond PDMS device to glass microscope slide.
 
+{% include video id="Y6jHMoRPzXk" provider="youtube" %}
 
+{% include gallery %}
+
+## Design specifications
+
+* Materials:
+  * Clear resin mold
+  * Polydimethylsiloxane (PDMS) cast
+  * Glass microscope slide
+* **Geometry calculations:**
+  * The widths of the pinched section and the outlet section were calculated using this formula:
+  * $Y_{0} = \left( {w_{\text{p}} - \frac{D}{2}} \right)\frac{{w_{0} }}{{w_{\text{p}} }}$
+  * $Y_{0}$ is the position of the particle in the outlet section (distance from wall)
+  * ${{w_{\text{p}} }}$ is the width of the pinched section
+  * ${{w_{0} }}$ is the width of the outlet section
+  * $D$ is the diameter of the particle
 
 
 ## CAD Model
