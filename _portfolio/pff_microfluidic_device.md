@@ -43,6 +43,7 @@ mathjax: true
   * Glass microscope slide
 * **Geometry calculations:**
   * The widths of the pinched section and the outlet section were calculated using this formula:
+
 \\(Y_{0} = \left( {w_{\text{p}} - \frac{D}{2}} \right)\frac{{w_{0} }}{{w_{\text{p}} }}\\)
 
 
