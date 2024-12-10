@@ -11,6 +11,7 @@ gallery:
   - url: /assets/img/IMG_0653.jpeg
     image_path: assets/img/IMG_0653.jpeg
     alt: "resin printed device mold"
+mathjax: true
 ---
 ###### Designed by Mazyar Azmi
 
@@ -43,7 +44,13 @@ gallery:
 * **Geometry calculations:**
   * The widths of the pinched section and the outlet section were calculated using this formula:
  
-
+$$
+\begin{aligned} 
+a^2 + b^2 &= c^2 \\ 
+E &= M \cdot C^2 \\ 
+&= xy + \mathbb{E} 
+\end{aligned}
+$$
 
 
 ## CAD Model
