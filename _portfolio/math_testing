@@ -1,7 +1,19 @@
 ---
-title: "Microfluidic Device"
-excerpt: "Pinched flow fractionation microfluidic device."
-
+title: "Math Testing"
+excerpt: "Testing some math."
+header:
+  image: /assets/img/pliers_render_final.png
+  teaser: /assets/img/pliers_render_final.png
+gallery:
+  - url: /assets/img/IMG_0549.jpeg
+    image_path: assets/img/IMG_0549.jpeg
+    alt: "real life 3D printed needlenose pliers"
+  - url: /assets/img/IMG_0558.gif
+    image_path: assets/img/IMG_0558.gif
+    alt: "gif of pliers working"
+  - url: /assets/img/IMG_0566.jpeg
+    image_path: assets/img/IMG_0566.jpeg
+    alt: "iterations of tpu core"
 mathjax: true
 ---
 ###### Math testing
