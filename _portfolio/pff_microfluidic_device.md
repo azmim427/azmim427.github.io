@@ -43,8 +43,8 @@ mathjax: true
   * Glass microscope slide
 * **Geometry calculations:**
   * The widths of the pinched section and the outlet section were calculated using this formula:
-  * \\(p(\theta) = \mathbf{\prod}_{i,c}p(\mathbf{\theta}^i(c))\\) inline formula  yay
-  * $ f(x) = x^2$
+  * \\(Y_{0} = \left( {w_{\text{p}} - \frac{D}{2}} \right)\frac{{w_{0} }}{{w_{\text{p}}\\)
+  * 
 
 
 
