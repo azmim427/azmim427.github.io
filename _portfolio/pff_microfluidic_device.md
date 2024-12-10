@@ -44,16 +44,7 @@ mathjax: true
 * **Geometry calculations:**
   * The widths of the pinched section and the outlet section were calculated using this formula:
  
-$$
-\begin{aligned} 
-Y_{0} = \left( {w_{\text{p}} - \frac{D}{2}} \right)\frac{{w_{0} }}{{w_{\text{p}} }}
-\end{aligned}
-$$
 
-$Y_{0}$ is the position of the particle in the outlet section (distance from wall)
-${{w_{\text{p}} }}$ is the width of the pinched section
-${{w_{0} }}$ is the width of the outlet section
-$D$ is the diameter of the particle
 
 
 ## CAD Model
