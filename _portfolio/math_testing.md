@@ -46,3 +46,6 @@ $$
 $$
 
 $$ \frac{4}{3}$$
+
+\\(p(\theta) = \mathbf{\prod}_{i,c}p(\mathbf{\theta}^i(c))\\) inline formula  yay
+$ f(x) = x^2$
