@@ -31,23 +31,8 @@ gallery:
   * Finally, bond PDMS device to glass microscope slide.
 
 
-{% include video id="Y6jHMoRPzXk" provider="youtube" %}
 
-{% include gallery %}
-
-## Design specifications
-
-* Materials:
-  * Clear resin mold
-  * Polydimethylsiloxane (PDMS) cast
-  * Glass microscope slide
-* **Geometry calculations:**
-  * The widths of the pinched section and the outlet section were calculated using this formula:
-  * $Y_{0} = \left( {w_{\text{p}} - \frac{D}{2}} \right)\frac{{w_{0} }}{{w_{\text{p}} }}$
-  * $Y_{0}$ is the position of the particle in the outlet section (distance from wall)
-  * ${{w_{\text{p}} }}$ is the width of the pinched section
-  * ${{w_{0} }}$ is the width of the outlet section
-  * $D$ is the diameter of the particle
 
 ## CAD Model
 
+<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH286ddQT78850c0d8a49618cb5b9c3e2d54?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
