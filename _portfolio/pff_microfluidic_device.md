@@ -11,7 +11,6 @@ gallery:
   - url: /assets/img/IMG_0653.jpeg
     image_path: assets/img/IMG_0653.jpeg
     alt: "resin printed device mold"
-use_math: true
 ---
 ###### Designed by Mazyar Azmi
 
