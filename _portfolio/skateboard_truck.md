@@ -1,4 +1,3 @@
-
 ---
 title: "Generative Skateboard Truck"
 excerpt: "Motorized skateboard truck designed with generative AI."
