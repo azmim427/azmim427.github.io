@@ -5,6 +5,15 @@ header:
   image: /assets/img/skateboard_assembly.png
   teaser: /assets/img/skateboard_assembly.png
 gallery:
+  - url: /assets/img/skateboard_truck_alone_render.png
+    image_path: assets/img/skateboard_truck_alone_render.png
+    alt: "render of nylon 12 truck"
+  - url: /assets/img/9dqx72.gif
+    image_path: assets/img/9dqx72.gif
+    alt: "gif of truck in action"
+  - url: /assets/img/aluminum_truck_alone.png
+    image_path: assets/img/aluminum_truck_alone.png
+    alt: "render of aluminum truck"
   - url: /assets/img/IMG_0688.jpeg
     image_path: assets/img/IMG_0688.jpeg
     alt: "irl truck on skateboard"
